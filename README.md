@@ -8,21 +8,21 @@ Open the project folder to access the files
 Run the index.html file
 
 ## Contributing
-Anybody can contribute t this project. As this was my improvement of the Udacity starter code, I would like more improvements to be made by anyoone
+Anybody can contribute to this project. As this was my improvement of the Udacity starter code, I would like more improvements to be made by anyoone
 
 ## Authors
 Nicanor Korir
 
 
 ## Built With
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 
 ## Acknowledgement
-*Udacity
-*Google
-*Andela
+* Udacity
+* Google
+* Andela
 
 ## Website
 https://nicanor008.github.io/Udacity-Pixel-Art-Maker/
